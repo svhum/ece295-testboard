@@ -109,9 +109,9 @@ Configuration5_Name1=OutputConfigurationParameter1
 Configuration5_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=U:\Teaching\2021-22\ECE295\Altium\ECE295 Test Board\top_blank.SchDoc
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Sam Murray\Google Drive\School\PhD\taing\ECE295\altium\ece295blank\submodule_pcbs\Job1.PDF
+OutputFilePath2=H:\My Drive\School\PhD\taing\ECE295\ece295-testboard\submodule_pcbs\pcb_dimensions.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\Sam Murray\Google Drive\School\PhD\taing\ECE295\altium\ece295blank\submodule_pcbs\
+OutputBasePath2=H:\My Drive\School\PhD\taing\ECE295\ece295-testboard\submodule_pcbs\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -188,7 +188,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Sam Murray\Google Drive\School\PhD\taing\ECE295\altium\ece295blank\submodule_pcbs\Job1.PDF
+RelativeOutputPath2=H:\My Drive\School\PhD\taing\ECE295\ece295-testboard\submodule_pcbs\pcb_dimensions.PDF
 OpenOutputs2=1
 RelativeOutputPath3=U:\Teaching\2021-22\ECE295\Altium\ECE295 Test Board\Project Outputs for ECE295 Test Board\
 OpenOutputs3=1
