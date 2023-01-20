@@ -236,23 +236,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EXYWNHET
 
 [Document12]
-DocumentPath=submodule_pcbs\qsd_blank.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WSHSCOSH
-
-[Document13]
 DocumentPath=submodule_pcbs\qse_blank.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,24 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QJMNCGOY
 
-[Document14]
-DocumentPath=submodule_pcbs\rxdown_blank.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MGCWFRUB
-
-[Document15]
+[Document13]
 DocumentPath=submodule_pcbs\pa_blank.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FXMHIMJR
 
-[Document16]
+[Document14]
 DocumentPath=submodule_pcbs\switch_blank.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VOBOGAMJ
 
-[Document17]
+[Document15]
 DocumentPath=submodule_pcbs\osc_blank.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGHNIAYQ
 
-[Document18]
+[Document16]
 DocumentPath=submodule_pcbs\demod_blank.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -352,26 +318,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KJCKPEAF
 
-[Document19]
-DocumentPath=submodule_pcbs\qsd_blank.PCBDwf
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SBIYYJSF
-
-[Document20]
+[Document17]
 DocumentPath=submodule_pcbs\qse_blank.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -388,24 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
-DocumentPath=submodule_pcbs\rxdown_blank.PCBDwf
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document22]
+[Document18]
 DocumentPath=submodule_pcbs\pa_blank.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -422,7 +354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSBKABHL
 
-[Document23]
+[Document19]
 DocumentPath=submodule_pcbs\switch_blank.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -439,7 +371,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document20]
 DocumentPath=submodule_pcbs\osc_blank.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -454,9 +386,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UUFFJPHH
 
-[Document25]
+[Document21]
 DocumentPath=submodule_pcbs\Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -473,7 +405,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document22]
 DocumentPath=ECE295 Blank Radio Design.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -490,7 +422,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document23]
 DocumentPath=power_intg.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -507,7 +439,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQILQNYP
 
-[Document28]
+[Document24]
 DocumentPath=rxall_blank.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -524,7 +456,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPFYVUAR
 
-[Document29]
+[Document25]
 DocumentPath=submodule_pcbs\rxall_blank.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -540,6 +472,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XHAGLQQZ
+
+[Document26]
+DocumentPath=submodule_pcbs\rxall_blank.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VNMBETVY
 
 [Configuration1]
 Name=Sources
@@ -695,22 +644,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother MFC-L2740DW series Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -938,12 +877,6 @@ OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Project History
-OutputName9=Project History
-OutputDocumentPath9=
-OutputVariantName9=[No Variations]
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1294,7 +1227,6 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
-Type120=1
 
 [Difference Levels]
 Type1=1
